@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nur Hasni Binti Mohamad Hijazi
 
-<!--
-**hasnihijazi/hasnihijazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering, web development, and exploring artificial intelligence.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Diploma in Computer Science, UiTM
+- Currently learning: Software development, database management, Git, and GitHub
+- My FYP area: Still exploring potential areas and project ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+PHP, Java, Python, SQL, CodeIgniter, MySQL, Git, GitLab, and GitHub
+
+## Projects
+- Coming soon
+
+## Contact
+- LinkedIn: hasni hijazi
+- Email: hasnihijazi08@gmail.com
